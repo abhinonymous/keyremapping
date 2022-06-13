@@ -1,7 +1,9 @@
 swapping ctrl and alt to make function similar to mac:
 
 https://superuser.com/questions/1190329/can-i-switch-the-alt-and-ctrl-keys-on-my-keyboard
+
 https://www.experts-exchange.com/articles/2155/Keyboard-Remapping-CAPSLOCK-to-Ctrl-and-Beyond.html
+
 https://superuser.com/questions/1131889/disable-all-keyboard-shortcuts-in-windows/1132401#1132401
 
 "Copying relevant info from link above"
