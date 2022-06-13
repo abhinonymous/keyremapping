@@ -48,3 +48,4 @@ Other useful keys to know:
 3a 00    Caps Lock
 ```
 
+you may also map alt+tab to ctrl+tab to use ctrl as the one stop key for everything!
